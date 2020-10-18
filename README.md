@@ -4,33 +4,40 @@ Homework 1: Analyzing the data for the game "Heroes of Pymoli"
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+
  Outputs
    Player Count
-      Total Number of Players
+      -Total Number of Players
+
    Purchasing Analysis (Total)
-      Number of Unique Items
-      Average Purchase Price
-      Total Number of Purchases
-      Total Revenue
+      -Number of Unique Items
+      -Average Purchase Price
+      -Total Number of Purchases
+      -Total Revenue
+
    Gender Demographics
-      Percentage and Count of Male Players
-      Percentage and Count of Female Players
-      Percentage and Count of Other / Non-Disclosed
+      -Percentage and Count of Male Players
+      -Percentage and Count of Female Players
+      -Percentage and Count of Other / Non-Disclosed
+
    Purchasing Analysis (broken by Gender)
-      Purchase Count
-      Average Purchase Price
-      Total Purchase Value
-      Average Purchase Total per Person by Gender
+      -Purchase Count
+      -Average Purchase Price
+      -Total Purchase Value
+      -Average Purchase Total per Person by Gender
+
    Age Demographics
       Purchase Count
       Average Purchase Price
       Total Purchase Value
       Average Purchase Total per Person by Age Group  
+
    Top Spenders (Identify the the top 5 spenders in the game by total purchase value)
       SN
       Purchase Count
       Average Purchase Price
       Total Purchase Value
+
    Most Popular Items(Identify the 5 most popular items by purchase count)
       Item ID
       Item Name
