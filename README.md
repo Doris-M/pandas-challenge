@@ -1,11 +1,11 @@
 # pandas-challenge - Homework
 
-####Homework 1: Analyzing the data for the game "Heroes of Pymoli"
+#### Homework 1: Analyzing the data for the game "Heroes of Pymoli"
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
- Outputs
+Outputs
 
 ##### Player Count
      -Total Number of Players
@@ -80,23 +80,26 @@ As a first task, the company would like you to generate a report that breaks dow
       -% Passing Reading (The percentage of students that passed reading.)
       -% Overall Passing (The percentage of students that passed math and reading.)
 
-#####Top Performing Schools (By % Overall Passing) - Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-	-School Name
-	-School Type
-	-Total Students
-	-Total School Budget
-	-Per Student Budget
-	-Average Math Score
-	-Average Reading Score
-	-% Passing Math (The percentage of students that passed math.)
-	-% Passing Reading (The percentage of students that passed reading.)
-	-% Overall Passing (The percentage of students that passed math and reading.)
+##### Top Performing Schools (By % Overall Passing) - Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
+      -School Name
+      -School Type
+      -Total Students
+      -Total School Budget
+      -Per Student Budget
+      -Average Math Score
+      -Average Reading Score
+      -% Passing Math (The percentage of students that passed math.)
+      -% Passing Reading (The percentage of students that passed reading.)
+      -% Overall Passing (The percentage of students that passed math and reading.)
 
-##### Bottom Performing Schools (By % Overall Passing)- Create a table that highlights the bottom 5 performing schools based on % Overall Passing.
+##### Bottom Performing Schools (By % Overall Passing) 
+      - Create a table that highlights the bottom 5 performing schools based on % Overall Passing.
 
-##### Math Scores by Grade** - Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+##### Math Scores by Grade** 
+      - Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-##### Reading Scores by Grade - Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+##### Reading Scores by Grade 
+      - Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ##### Scores by School Spending - Create a table that breaks down school performances based on average Spending Ranges (Per Student).
        -Average Math Score
