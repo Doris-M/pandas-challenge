@@ -7,13 +7,13 @@ As a first task, the company would like you to generate a report that breaks dow
 
  Outputs
    Player Count
-      -Total Number of Players
+      * Total Number of Players
 
    Purchasing Analysis (Total)
-      -Number of Unique Items
-      -Average Purchase Price
-      -Total Number of Purchases
-      -Total Revenue
+      * Number of Unique Items
+      * Average Purchase Price
+      * Total Number of Purchases
+      * Total Revenue
 
    Gender Demographics
       -Percentage and Count of Male Players
